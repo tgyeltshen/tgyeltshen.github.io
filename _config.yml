@@ -7,12 +7,12 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
+locale                   : "ja-JP"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Tshewang Gyeltshen/BDS.MPH"
+title                    : "Tshewang Gyeltshen"
 title_separator          : ","
 name                     : &name "Tshewang Gyeltshen"
-description              : &description "personal description"
+description              : &description "PhD Candidate in Global Health Policy"
 url                      : https://tgyeltshen.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "tgyeltshen/tgyeltshen.github.io"
@@ -25,9 +25,9 @@ author:
   avatar           : "profile.png"
   name             : "Tshewang Gyeltshen"
   pronouns         : # example: "she/her"  
-  bio              : "PhD Candidate, University of Tokyo"
+  bio              : "Doctoral Candidate in Global Health Policy, School of International Health, The University of Tokyo"
   location         : "Tokyo, Japan"
-  employer         : "Global Health Policy, School of International Health, The University of Tokyo"
+  employer         : "School of International Health, The University of Tokyo"
   uri              : # URL
   email            : "tgyeltshen@g.ecc.u-tokyo.ac.jp" 
 
@@ -39,44 +39,19 @@ author:
   impactstory      : # URL
   orcid            : "https://orcid.org/0000-0002-9813-2225"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=Gyeltshen+T&cauthor_id=39058697"
   researchgate     : "https://researchmap.jp/tgyeltshen1"
   scopus           : # URL
 
   # Repositories and software development
-  bitbucket        : # Username - Update with your username on the site
-  codepen          : # Username
-  dribbble         : # Username
-  github           : "academicpages"
-  kaggle           : # Username  
-  stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
+  github           : "tgyeltshen"
+
 
   # Social media
-  artstation       : # Username
   bluesky          : "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
-  flickr           : # Username
-  foursquare       : # Username
-  goodreads        : # Username
-  google_plus      : # Username
-  keybase          : # Username
   instagram        : # Username
-  lastfm           : # Username
-  linkedin         : # Username
-  mastodon         : # URL
-  medium           : # URL
-  pinterest        : # Username
-  soundcloud       : # Username
-  steam            : # Username
-  telegram         : # URL
-  tumblr           : # Username
-  twitter          : # Username for X / Twitter
-  vine             : # Username
-  weibo            : # Username
-  wikipedia        : # Username
-  xing             : # Username
-  youtube          : # Username
-  zhihu            : # Username
+  linkedin         : "https://www.linkedin.com/in/tgyeltshen"
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
