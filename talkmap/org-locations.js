@@ -1,22 +1,27 @@
 var addressPoints = [
   [
-    "Lung Cancer Mortality and air pollution in Japan (scheduled) <br />Hitotsubashi Institute of Advanced Studies; Tokyo, Japan",
-    51.4893335,
-    -0.14405508452768728
+    "Lung Cancer Mortality and Air Pollution in Japan (scheduled) <br />Hitotsubashi Institute of Advanced Studies; Tokyo, Japan",
+    35.6895, // latitude Tokyo
+    139.6917 // longitude Tokyo
   ],
   [
     "Data Analysis using Comprehensive Survey of Living Conditions Survey, Japan<br />Kagoshima Data Science Symposium; Kagoshima, Japan",
-    37.8708393,
-    -122.272863
+    31.5966, // latitude Kagoshima
+    130.5571 // longitude Kagoshima
   ],
   [
-    "Intergenerational Inequities in Health burden due to Climate Change <br /> Utokyo Center for Climate Solutions, UTCCS Annual Workshop; The University of Tokyo, Japan",
-    34.0536909,
-    -118.242766
+    "Intergenerational Inequities in Health Burden due to Climate Change <br />Utokyo Center for Climate Solutions, UTCCS Annual Workshop; The University of Tokyo, Japan",
+    35.7133, // latitude Bunkyo-ku (UTokyo Hongo campus)
+    139.7620 // longitude
   ],
   [
-    "Socioeconomic Inequalities in uptake of cancer screening 2013-2022, Japan <br />The 84th Annual Meeting of the Japanese Society of Public Health; Sapporo, Japan",
-    37.7792588,
-    -122.4193286
+    "Socioeconomic Inequalities in Uptake of Cancer Screening 2013–2022, Japan <br />The 84th Annual Meeting of the Japanese Society of Public Health; Sapporo, Japan",
+    43.0621, // latitude Sapporo
+    141.3544 // longitude
   ]
 ];
+var map = L.map('map').setView([20, 0], 2);
+
+L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+  attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+}).addTo(map);  
