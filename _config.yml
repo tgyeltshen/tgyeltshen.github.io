@@ -23,7 +23,7 @@ repository               : "https://github.com/tgyeltshen/tgyeltshen.github.io"
 author:
   # Biographic information
   avatar           : "bio-photo.jpg"
-  name             : "Dr. Tshewang Gyeltshen"
+  name             : "Tshewang Gyeltshen"
   pronouns         : # example: "she/her"  
   bio              : "Doctoral Candidate in Global Health Policy, School of International Health, The University of Tokyo"
   location         : "Tokyo"
@@ -52,7 +52,7 @@ publication_category:
   books:
     title: 'Books'
   manuscripts:
-    title: 'Journal Articles'    
+    title: 'Selected Journal Articles'    
   conferences:
     title: 'Conference Papers'
 
