@@ -8,7 +8,7 @@ date: 2023-04-01
 location: "Tokyo, Japan"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Spring 2024, 
 
 Medical Informatics Essentials
 ======

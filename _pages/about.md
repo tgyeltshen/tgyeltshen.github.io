@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi there! 
+Hi there!  
 I am Tshewang Gyeltshen, a PhD candidate in the Department of Global Health Policy in the School of International Health, The University of Tokyo. I specialize in Global Health Policy with focus on environmental epidemiology and climate-health research. My work focuses on quantifying the long-term and intergenerational health impacts of extreme heat exposure in Japan. I integrate advanced epidemiological modeling approaches, including Distributed Lag Non-linear Models (DLNM), Age-Period-Cohort (APC) analysis, and two-stage meta-analytic frameworks to investigate how cumulative lifetime heat exposure influences mortality and Years of Life Lost (YLL) across generational and socioeconomic groups in Japan.
 
 My research utilizes one of the most comprehensive mortality and climate datasets available in Japan, with almost 49 million individual-level mortality records linked with historical meteorological esposure data. This large-scale analysis provides unique insights into life-course exposures, intergenerational inequalities, and the broader implications of climate change for public health.
