@@ -11,35 +11,32 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Global Health Policy, School of Internatioal Health, The University of Tokyo, 2027 (expected)
+* Master of Public Health (MPH), Graduate School of Public Health, St. Luke's International University, 2024
+* Bachelor of Dental Surgery (B.D.S), Dhaka Dental College, university of Dhaka, 2016
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Spring 2024: Teaching Assistant in Epidemiology, Medical Informatics, Global Health and Molecular Epidemiology
+  * GSPH, St. Luke's International University
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Fall 2024: Research Assistant
+  * St. Luke's International University
+  * Duties included: Data Analysis on Maternal and Child Health data.
+  * Supervisor: Kevin Urayama
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2017 - 2021: In hospital Dental Surgeon
+  * Ministry of Health, Royal Government of Bhutan
+
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Data Analysis
+  * R and Rstudio
+  * python with Jupyter Notebook & VS Code
+  * Stata
+  * Epidata and Epidata Manager
+* Version Controls with Git
 
 Publications
 ======
@@ -61,4 +58,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Member, International Society of Hypertension, 2021 - 2024
