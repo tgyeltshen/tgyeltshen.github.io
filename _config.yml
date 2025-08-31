@@ -29,13 +29,12 @@ author:
   location         : "Tokyo"
   employer         : "The University of Tokyo"
   postion         : "Doctoral Candidate"
-  uri              : "https://www.ghp.m.u-tokyo.ac.jp/member/tshewang-gyeltshen/"
+  uri              : "https://tgyeltshen.github.io/" # Personal or professional website - if provided, a home icon will appear in the author profile box
   email            : "tgyeltshen@g.ecc.u-tokyo.ac.jp" # Email address - if provided, an email icon will appear in the author profile box
 
   # Academic websites
   orcid            : "https://orcid.org/0000-0002-9813-2225"
-  researchmap     : "https://researchmap.jp/tgyeltshen1"
-  researchgate         : # URL
+  researchgate         : "https://researchmap.jp/tgyeltshen1"
   googlescholar    : "https://scholar.google.com/citations?user=kYwafa4AAAAJ&hl=en&authuser=1"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=tshewang+gyeltshen"
 
