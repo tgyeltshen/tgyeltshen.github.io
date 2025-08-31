@@ -33,7 +33,7 @@ Skills
 ======
 * Data Analysis
   * R and Rstudio
-  * python with Jupyter Notebook & VS Code
+  * Python with Jupyter Notebook & VS Code
   * Stata
   * Epidata and Epidata Manager
 * Version Controls with Git
