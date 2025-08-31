@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Dr. Tshewang Gyeltshen"
+title                    : "Tshewang Gyeltshen"
 title_separator          : "-"
 name                     : &name "Tshewang Gyeltshen"
 description              : &description "personal description"
