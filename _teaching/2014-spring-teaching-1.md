@@ -3,18 +3,18 @@ title: "Teaching Assistant"
 collection: teaching
 type: "Graduate level MPH course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "GSPH, St. Luke's Internaitonal University, Department og Epidemiology"
+venue: "GSPH, St. Luke's Internaitonal University, Department of Epidemiology"
 date: 2023-04-01
 location: "Tokyo, Japan"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
 
-Heading 1
+Epidemiological Methods
 ======
 
-Heading 2
+Study Designs
 ======
 
-Heading 3
+Measures of Association, Confounding and Effect Modification
 ======

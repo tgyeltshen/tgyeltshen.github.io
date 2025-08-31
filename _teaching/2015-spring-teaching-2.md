@@ -10,11 +10,11 @@ location: "Tokyo, Japan"
 
 This is a description of a teaching experience. You can use markdown like any other post.
 
-Heading 1
+Medical Informatics Essentials
 ======
 
-Heading 2
+Natural Language Processing (NLP) – Introductory
 ======
 
-Heading 3
+Machine Learning – Introductory
 ======
