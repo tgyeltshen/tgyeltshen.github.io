@@ -14,4 +14,8 @@ Spring 2023
 
 ## Study Designs
 
-## Measures of Association, Confounding and Effect Modification
+## Measures of Association, Confounders and Effect Modifiers
+
+## Errors (Random Errors, Bias and Confounding in Epidemiological Studies)  
+
+## Outbreak Investigation 

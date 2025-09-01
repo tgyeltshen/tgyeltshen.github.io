@@ -16,4 +16,4 @@ Spring 2023
 
 ## Machine Learning – Introductory
 
-[Learn More on it in this repo ](https://github.com/tgyeltshen/Health_Informatics_Teaching_Spring2023)
+Learn more on it at this repository [Health Informatics, Spring 2023](https://github.com/tgyeltshen/Health_Informatics_Teaching_Spring2023)
