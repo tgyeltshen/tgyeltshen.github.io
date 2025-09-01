@@ -10,11 +10,8 @@ location: "Tokyo, Japan"
 
 Spring 2023
 
-Epidemiological Methods
-======
+## Epidemiological Methods
 
-Study Designs
-======
+## Study Designs
 
-Measures of Association, Confounding and Effect Modification
-======
+## Measures of Association, Confounding and Effect Modification

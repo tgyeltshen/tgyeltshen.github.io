@@ -8,13 +8,12 @@ date: 2023-04-01
 location: "Tokyo, Japan"
 ---
 
-Spring 2023, [More] (https://github.com/tgyeltshen/Health_Informatics_Teaching_Spring2023)
+Spring 2023
 
-Heaslth Informatics Essentials
-======
+## Health Informatics Essentials  
 
-Natural Language Processing (NLP) – Introductory
-======
+## Natural Language Processing (NLP) – Introductory  
 
-Machine Learning – Introductory
-======
+## Machine Learning – Introductory
+
+[Learn More on it in this repo ](https://github.com/tgyeltshen/Health_Informatics_Teaching_Spring2023)
