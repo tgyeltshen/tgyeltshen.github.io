@@ -8,7 +8,7 @@ date: 2023-04-01
 location: "Tokyo, Japan"
 ---
 
-Spring 2024
+Spring 2023
 
 Epidemiological Methods
 ======
