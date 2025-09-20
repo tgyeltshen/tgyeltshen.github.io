@@ -1,7 +1,7 @@
 ---
 title: "Teaching Assistant"
 collection: teaching
-type: "Graduate Level MPH Course"
+type: "Graduate Level International Health Course"
 permalink: /teaching/2025-spring-teaching-3
 venue: "Global Health Policy department, School of International Health, The University of Tokyo"
 date: 2025-04-24
