@@ -2,7 +2,7 @@
 title: "Trends in prevalence and correlates of tobacco use among school-going adolescents in Bhutan: A secondary data analysis of the 2004–2019 Global Youth Tobacco Survey"
 collection: publications
 category: manuscripts
-permalink: /publication/2010-10-01-paper-title-number-2
+permalink: /publication/2024-07-26-paper-title-number-2
 excerpt: 'This paper assess the Bhutan growing trends of tobacco use prevalence among the school going children in Bhutan'
 date: 2024-07-26
 venue: 'PLOS Global Public Health'
