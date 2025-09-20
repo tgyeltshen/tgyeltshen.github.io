@@ -2,7 +2,7 @@
 title: "Alcohol policy compliance among retailers in Bhutan: a multisite community intervention study"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/2021-10-19-paper-title-number-1
 excerpt: 'This paper assess the compliance of alcohol related policy implementations in three district towns of Bhutan'
 date: 2021-10-19
 venue: 'BMC Public Health'
