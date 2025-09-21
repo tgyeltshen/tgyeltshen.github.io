@@ -1,5 +1,5 @@
 ---
-title: "Teaching Assistant"
+title: "Epidemiological Methods"
 collection: teaching
 type: "Graduate Level MPH Course"
 permalink: /teaching/2023-spring-teaching-1

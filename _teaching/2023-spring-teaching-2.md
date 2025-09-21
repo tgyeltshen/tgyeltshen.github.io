@@ -1,5 +1,5 @@
 ---
-title: "Teaching Assistant"
+title: "Medical Informatics Essentials"
 collection: teaching
 type: "Graduate Level MPH Course"
 permalink: /teaching/2023-spring-teaching-2

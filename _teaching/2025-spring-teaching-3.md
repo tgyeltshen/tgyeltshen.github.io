@@ -1,5 +1,5 @@
 ---
-title: "Teaching Assistant"
+title: "Basic Tools of Population Health Research"
 collection: teaching
 type: "Graduate Level International Health Course"
 permalink: /teaching/2025-spring-teaching-3
