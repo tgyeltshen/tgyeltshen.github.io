@@ -26,7 +26,7 @@ This intensive module is designed to introduce students to the **fundamental pri
 ## Course Outline  
 
 ### Measuring Health and Disease  
-Measures of incidence, prevalence, and risk:contentReference[oaicite:1]{index=1}.  
+Measures of incidence, prevalence, and risk.  
 
 ### Descriptive, Ecological, and Cross-sectional Studies  
 Study designs and measures of effect.  
@@ -70,6 +70,6 @@ Group presentations, quizzes, and final assessment combining multiple-choice and
 **Recommended**  
 - Bonita R, Beaglehole R, Kjellstrom T. *Basic Epidemiology* (2nd ed., WHO, 2006).  
 - Lash TL, VanderWeele TJ, Haneuse S, Rothman KJ. *Modern Epidemiology* (4th ed., 2021).  
-- Additional references from WHO, IARC, and Oxford University Press:contentReference[oaicite:2]{index=2}.  
+- Additional references from WHO, IARC, and Oxford University Press.  
 
 ---
