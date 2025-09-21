@@ -56,4 +56,4 @@ Applications of bioinformatics to population health; mobile health applications,
 
 ---
 
-👉 *Learn more at the [Health Informatics, Spring 2023 repository](https://github.com/tgyeltshen/Health_Informatics_Teaching_Spring2023).*  
+*Learn more at the [Health Informatics, Spring 2023 repository](https://github.com/tgyeltshen/Health_Informatics_Teaching_Spring2023).*  
