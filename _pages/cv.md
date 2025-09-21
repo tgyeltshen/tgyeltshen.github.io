@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: 
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,53 +9,67 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Global Health Policy, School of Internatioal Health, The University of Tokyo, 2027 (expected)
-* Master of Public Health (MPH), Graduate School of Public Health, St. Luke's International University, 2024
-* Bachelor of Dental Surgery (B.D.S), Dhaka Dental College, university of Dhaka, 2016
+# Education
+- **Ph.D. in Global Health Policy**, School of International Health, The University of Tokyo — *Expected 2027*  
+- **Master of Public Health (MPH)**, Graduate School of Public Health, St. Luke's International University — *2024*  
+- **Bachelor of Dental Surgery (B.D.S.)**, Dhaka Dental College, University of Dhaka — *2016*  
 
-Work experience
-======
-* Spring 2024: Teaching Assistant in Epidemiology, Medical Informatics, Global Health and Molecular Epidemiology
-  * GSPH, St. Luke's International University
+---
 
-* Fall 2024: Research Assistant
-  * St. Luke's International University
-  * Duties included: Data Analysis on Maternal and Child Health data.
-  * Supervisor: Kevin Urayama
+# Work Experience
+- **Teaching Assistant in Epidemiology, Medical Informatics, Global Health, and Molecular Epidemiology**  
+  *St. Luke’s International University — Spring 2024*  
+  - Assisted in course delivery, grading, and student support.
 
-* 2017 - 2021: In hospital Dental Surgeon
-  * Ministry of Health, Royal Government of Bhutan
+- **Research Assistant**  
+  *St. Luke’s International University — Fall 2024*  
+  - Conducted data analysis on maternal and child health datasets.  
+  - Supervisor: *Dr. Kevin Urayama*
 
-  
-Skills
-======
-* Data Analysis
-  * R and Rstudio
-  * Python with Jupyter Notebook & VS Code
-  * Stata
-  * Epidata and Epidata Manager
-* Version Controls with Git
+- **In-Hospital Dental Surgeon**  
+  *Ministry of Health, Royal Government of Bhutan — 2017–2021*  
+  - Provided clinical dental care and managed patient treatment plans.
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Member, International Society of Hypertension, 2021 - 2024
+---
+
+# Skills
+- **Data Analysis & Programming**  
+  - R & RStudio  
+  - Python (Jupyter Notebook, VS Code)  
+  - Stata  
+  - EpiData / EpiData Manager  
+
+- **Version Control**  
+  - Git & GitHub  
+
+---
+
+# Publications
+<ul>
+{% for post in site.publications reversed %}
+  {% include archive-single-cv.html %}
+{% endfor %}
+</ul>
+
+---
+
+# Talks
+<ul>
+{% for post in site.talks reversed %}
+  {% include archive-single-talk-cv.html %}
+{% endfor %}
+</ul>
+
+---
+
+# Teaching
+<ul>
+{% for post in site.teaching reversed %}
+  {% include archive-single-cv.html %}
+{% endfor %}
+</ul>
+
+---
+
+# Service and Leadership
+- Member, **International Society of Hypertension** (2021–2024)
