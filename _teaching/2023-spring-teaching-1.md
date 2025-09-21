@@ -8,7 +8,7 @@ date: 2023-04-01
 location: "Tokyo, Japan"
 ---
 
-**Teaching Assistant, Spring 2023 | Graduate School of Public Health, St. Luke’s International University, Tokyo**  
+Teaching Assistant, Spring 2023 | Graduate School of Public Health, St. Luke’s International University, Tokyo  
 
 I served as a Teaching Assistant for the graduate-level MPH course *“Epidemiological Methods”* at the Department of Epidemiology, led by Professor [Mahbubur Rahman](https://researchmap.jp/rahman). The course introduced students to the fundamental principles of epidemiology as the core science of public health and disease prevention.  
 

@@ -8,8 +8,7 @@ date: 2023-04-01
 location: "Tokyo, Japan"
 ---
 
-# Teaching Assistant – Medical Informatics Essentials  
-**Spring 2023 | St. Luke’s International University, Tokyo**  
+**Teaching Assistant, Spring 2023 | Graduate School of Public Health, St. Luke’s International University, Tokyo**  
 
 In Spring 2023, I served as a Teaching Assistant for the graduate-level MPH course *“Medical Informatics Essentials”* at the Department of Health Informatics, led by Associate Professor [Zoie Shui-Yee Wong](https://researchmap.jp/zoiewong).  
 
