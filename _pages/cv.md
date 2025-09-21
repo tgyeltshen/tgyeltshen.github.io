@@ -17,14 +17,14 @@ redirect_from:
 ---
 
 # Work Experience
-- **Teaching Assistant in Epidemiology, Medical Informatics, Global Health, and Molecular Epidemiology**  
-  *St. Luke’s International University — Spring 2024*  
+- **Teaching Assistant in Epidemiology, Medical Informatics and Global Health Sciences**  
+  *Graduate School of Public Health, St. Luke’s International University — Spring 2024*  
   - Assisted in course delivery, grading, and student support.
 
 - **Research Assistant**  
   *St. Luke’s International University — Fall 2024*  
-  - Conducted data analysis on maternal and child health datasets.  
-  - Supervisor: *Dr. Kevin Urayama*
+  - Conducted data analysis on maternal and child health dataset.  
+  - Supervisor: *[Dr. Kevin Urayama](https://researchmap.jp/kevura)*
 
 - **In-Hospital Dental Surgeon**  
   *Ministry of Health, Royal Government of Bhutan — 2017–2021*  
@@ -44,7 +44,7 @@ redirect_from:
 
 ---
 
-# Publications
+# Selected Publications
 <ul>
 {% for post in site.publications reversed %}
   {% include archive-single-cv.html %}
@@ -72,4 +72,6 @@ redirect_from:
 ---
 
 # Service and Leadership
-- Member, **International Society of Hypertension** (2021–2024)
+- Member, **International Society of Hypertension** (2021–2024)  
+- Member, **Japan Society of Public Health** (2023 ~ )  
+- Member, **Japan Epidemiological Association** (2024 ~ )  
