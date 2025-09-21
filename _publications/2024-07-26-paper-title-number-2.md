@@ -2,7 +2,7 @@
 title: "Trends in Prevalence and Correlates of Tobacco Use Among School-Going Adolescents in Bhutan: A Secondary Data Analysis of the 2004–2019 Global Youth Tobacco Survey"
 collection: publications
 category: manuscripts
-permalink: /publication/2024-07-26-tobacco-bhutan-gyts
+permalink: /publication/2024-07-26-paper-title-number-2
 excerpt: "This study analyzed nationally representative Global Youth Tobacco Survey (GYTS) data from 2004–2019 to assess trends and determinants of tobacco use among adolescents in Bhutan. Findings show rising prevalence, particularly of smokeless tobacco, with strong links to early initiation, peer influence, and betel quid use."
 date: 2024-07-26
 venue: "PLOS Global Public Health"

@@ -2,7 +2,7 @@
 title: "Lifestyle Management of Hypertension: International Society of Hypertension Position Paper (endorsed by the World Hypertension League and European Society of Hypertension)"
 collection: publications
 category: manuscripts
-permalink: /publication/2024-02-17-hypertension-lifestyle-management
+permalink: /publication/2024-02-17-paper-title-number-4
 excerpt: "This collaborative position paper outlines evidence-based recommendations for lifestyle interventions in the prevention and management of hypertension, endorsed by leading international hypertension societies."
 date: 2024-02-17
 venue: "Journal of Hypertension"

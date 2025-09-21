@@ -2,7 +2,7 @@
 title: "Epidemiology of Cleft Lip and Palate in Bhutan, 2015–2022"
 collection: publications
 category: manuscripts
-permalink: /publication/2024-11-15-cleft-epidemiology-bhutan
+permalink: /publication/2024-11-15-paper-title-number-5
 excerpt: "This study provides the first nationally representative analysis of cleft lip and palate in Bhutan (2015–2022), revealing increasing prevalence trends and highlighting the need for enhanced birth defect surveillance and intervention strategies."
 date: 2024-11-15
 venue: "BMC Oral Health"
