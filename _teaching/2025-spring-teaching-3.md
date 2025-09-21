@@ -8,8 +8,7 @@ date: 2025-04-24
 location: "Tokyo, Japan"
 ---
 
-# Teaching Assistant – Basic Tools of Population Health Research  
-**Spring 2025 | The University of Tokyo, School of International Health**  
+Teaching Assistant, Spring 2025 | The University of Tokyo, School of International Health, Department of Global Health Policy  
 
 I facilitated a class for the course *“Basic Tools of Population Health Research”* offered by the [Department of Global Health Policy](https://www.ghp.m.u-tokyo.ac.jp/), School of International Health, The University of Tokyo.  
 

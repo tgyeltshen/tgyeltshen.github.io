@@ -8,8 +8,7 @@ date: 2023-04-01
 location: "Tokyo, Japan"
 ---
 
-# Teaching Assistant – Global Health Sciences    
-**Spring 2023 | St. Luke’s International University, Tokyo**  
+Teaching Assistant, Spring 2023 | Graduate School of Public Health, St. Luke’s International University, Tokyo    
 
 The course, led by Professor [Junko Yasuoka](https://researchmap.jp/jyasuoka/?lang=en), provided students with a comprehensive overview of **global health issues** in both developing and developed contexts. It emphasized international collaboration mechanisms such as **bilateral and multilateral partnerships, public–private partnerships**, and the roles of key stakeholders including **WHO, JICA, and international NGOs**.  
 
