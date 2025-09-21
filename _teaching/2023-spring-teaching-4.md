@@ -1,5 +1,5 @@
 ---
-title: "Global Health"
+title: "Global Health Sciences"
 collection: teaching
 type: "Graduate Level MPH Course"
 permalink: /teaching/2023-spring-teaching-4
