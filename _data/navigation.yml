@@ -21,3 +21,7 @@ main:
   #   url: /cv-json/
   - title: "Talks"
     url: /talks/
+    
+  - title: "Blog"
+    url: /blog/
+  
