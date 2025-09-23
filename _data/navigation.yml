@@ -19,10 +19,10 @@ main:
     
   # - title: "CV"
   #   url: /cv-json/
-  
+
   - title: "Talks"
     url: /talks/
 
-  - title: "Blog"
-    url: /blog/
+  - title: "Blog Posts"
+    url: /posts/
   
