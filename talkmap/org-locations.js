@@ -1,8 +1,8 @@
 var addressPoints = [
   [
-    "Climate Change and Health: Understanding Inequalities in a Warming World (scheduled)<br />Online; Ulaan Bataar, Mongolia",
-    50.3235008,
-    106.4893187
+    "Climate Change and Health: Understanding Inequalities in a Warming World (scheduled)<br />Online; Ulaanbaatar, Mongolia",
+    47.9184676,
+    106.9177016
   ],
   [
     "Impact of Cumulative Exposure to Extreme Heat \u2013 Intergenerational Inequities of Health Burden in Japan<br />UTokyo Center for Climate Solutions (UTCCS) Annual Workshop; Bunkyo, Tokyo, Japan",
