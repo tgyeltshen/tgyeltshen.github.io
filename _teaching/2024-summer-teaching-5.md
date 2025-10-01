@@ -1,18 +1,17 @@
 ---
-title: "Time-series Regression for Public Health — 2nd Asia Summer School 2024"
+title: "Time-series Regression for Public Health - 2nd Asia Summer School 2024"
 collection: teaching
-type: "Facilitator — Practical training on time-series regression for public health"
+type: "Facilitator - Practical training on time-series regression for public health"
 permalink: /teaching/2024-summer-teaching-5
-venue: "The University of Tokyo — Faculty of Medicine, School of International Health, Department of Global Health Policy"
+venue: "The University of Tokyo - Faculty of Medicine, School of International Health, Department of Global Health Policy"
 date: 2024-07-22
 location: "Tokyo, Japan"
 ---
 
-Facilitator, Summer 2024 | The University of Tokyo, School of International Health, Department of Global Health Policy  
+Facilitator, 2nd Asia Summer Program, 2024 | The University of Tokyo, School of International Health, Department of Global Health Policy  
 
-## Facilitator Role — 2nd Asia Summer School 2024  
-**Program:** *Time-series Regression for Public Health*  
-I participated as a **facilitator** in the 2nd Asia Summer School 2024 on *Time-series Regression for Public Health*, an advanced short course designed to strengthen technical capacity in environmental and public-health time-series analyses.  
+## Facilitator Role - Time-series Regression for Public Health      
+I participated as a facilitator in the 2nd Asia Summer School 2024 on *Time-series Regression for Public Health*, an advanced short course designed to strengthen technical capacity in environmental and public-health time-series analyses.  
 
 The school focused on applying **modern epidemiological designs (time-series, case-crossover, distributed-lag models, interrupted-time-series, multi-location studies)** to assess health impacts of environmental exposures such as air pollution and extreme temperatures.  
 
