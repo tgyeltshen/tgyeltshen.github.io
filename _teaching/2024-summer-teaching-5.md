@@ -1,7 +1,7 @@
 ---
 title: "2nd Asia Summer School 2024 - Time-series Regression for Public Health"
 collection: teaching
-type: "Facilitator - Practical training on time-series regression for public health"
+type: "Practical training session on time-series regression for public health"
 permalink: /teaching/2024-summer-teaching-5
 venue: "The University of Tokyo - Faculty of Medicine, School of International Health, Department of Global Health Policy"
 date: 2024-07-22
@@ -55,5 +55,5 @@ The school focused on applying **modern epidemiological designs (time-series, ca
 - **Other resources:** WHO and IARC guidelines on environmental-health metrics and burden-of-disease estimation.  
 
 ---
-The 4th Edition of Asia Summer School is scheduled from 13th to 17th July 2026.   
+**The 4th Edition of Asia Summer School is scheduled from 13th to 17th July 2026.**      
 *Learn more and apply for the [4th Asia Summer School Program](https://asiasummerschool.weebly.com/).*   
