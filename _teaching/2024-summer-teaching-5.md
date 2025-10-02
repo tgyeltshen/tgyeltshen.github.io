@@ -8,7 +8,7 @@ date: 2024-07-22
 location: "Tokyo, Japan"
 ---
 
-Facilitator, 2nd Asia Summer Program, 2024 | The University of Tokyo, School of International Health, Department of Global Health Policy  
+Facilitator, 2nd Asia Summer School Program, 2024 | The University of Tokyo, School of International Health, Department of Global Health Policy  
 
 ## Facilitator Role - Time-series Regression for Public Health      
 I participated as a facilitator in the 2nd Asia Summer School 2024 on *Time-series Regression for Public Health*, an advanced short course designed to strengthen technical capacity in environmental and public-health time-series analyses.  
