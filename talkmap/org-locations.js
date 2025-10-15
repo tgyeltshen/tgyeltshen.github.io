@@ -1,6 +1,6 @@
 var addressPoints = [
   [
-    "Climate Change and Health: Understanding Inequalities in a Warming World (scheduled)<br />Online; Ulaanbaatar, Mongolia",
+    "Climate Change and Health: Understanding Inequalities in a Warming World<br />Online; Ulaanbaatar, Mongolia",
     47.9184676,
     106.9177016
   ],
