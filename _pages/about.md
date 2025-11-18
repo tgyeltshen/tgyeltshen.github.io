@@ -16,7 +16,7 @@ My Research Interest
 ======
 Beyond my dissertation, I am actively engaged in broader epidemiological and public health research, including cancer control and social epidemiology, with a particular focus on health inequalities. My work seeks to strengthen the evidence base at the forefront of public health research and inform policies that safeguard the health of vulnerable populations.
 
-I also work as the Specially Appointed Reseasrcher at the [Institute of Cancer Control, National Cancer Center, Japan](https://www.ncc.go.jp/en/icc/index.html) and as a visiting researcher at the  Hitotsubashi Institute for Advanced Study, [HiASHealth](https://health-economics.hias.hit-u.ac.jp/english/), at the [Hitotsubashi University](https://www.hit-u.ac.jp/eng/).
+I also work as the Specially Appointed Reseasrcher at the [Institute of Cancer Control, National Cancer Center, Japan](https://www.ncc.go.jp/en/icc/index.html).
 
 
 Contact Information
